@@ -180,7 +180,7 @@ It can be used for:
 
 Road Damage Detection provides an efficient and scalable solution for identifying road surface damages.
 
-```
+
 
 
 
