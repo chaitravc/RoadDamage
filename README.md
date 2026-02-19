@@ -92,7 +92,7 @@ RoadDamageDetection/
 
 ### Clone Repository
 ```bash
-git clone https://github.com/oracl4/RoadDamageDetection.git
+git clone https://github.com/chaitravc/RoadDamageDetection.git
 cd RoadDamageDetection
 ````
 
@@ -100,7 +100,6 @@ cd RoadDamageDetection
 
 ### Create Virtual Environment (Python 3.10 recommended)
 
-Do not uninstall existing Python versions.
 
 ```bash
 py -3.10 -m venv venv
@@ -159,8 +158,6 @@ Major dependencies used in this project:
 * requests
 * streamlit-webrtc
 
-Refer to `requirements.txt` for the complete list.
-
 ---
 
 ## Output
@@ -168,16 +165,6 @@ Refer to `requirements.txt` for the complete list.
 * Detection of road damages with bounding boxes
 * Confidence scores for detected damages
 * Support for real-time, image, and video inputs
-
----
-
-## Future Enhancements
-
-* Damage severity classification
-* GPS-based road damage mapping
-* Cloud-based deployment
-* Mobile-friendly interface
-* Larger and more diverse datasets
 
 ---
 
@@ -198,5 +185,3 @@ Road Damage Detection provides an efficient and scalable solution for identifyin
 ---
 
 
-Just tell me what you need next.
-```
